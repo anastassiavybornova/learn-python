@@ -162,3 +162,5 @@ cython_debug/
 # additional stuff
 .DS_Store
 */.ipynb_checkpoints/*
+*.mp4
+recordings/
