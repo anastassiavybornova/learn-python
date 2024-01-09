@@ -1,0 +1,1 @@
+All lecture recordings can be found as mp4 files [here](https://www.dropbox.com/scl/fo/30891hi4zximf9pbbmlbn/h?rlkey=tfl2j3ood3em6rr63l2papvz9&dl=0).
