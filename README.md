@@ -2,7 +2,7 @@
     <img src="./images/mastermind.jpeg" alt="Playing Mastermind" width=100%>
 </p>
 
-My initial motivation to learn Python was to build a program that would play Mastermind with me. What is yours?
+Anastassia's obsession: my initial motivation to learn Python was to build a program that would play Mastermind with me. What is yours?
 
 # Want to learn Python? Great idea!
 
