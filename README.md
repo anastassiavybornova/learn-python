@@ -1,35 +1,22 @@
+<p style="text-align:left;">
+    <img src="./images/mastermind.jpeg" alt="Playing Mastermind" width=100%>
+</p>
+
+My initial motivation to learn Python was to build a program that would play Mastermind with me. What is yours?
+
 # Want to learn Python? Great idea!
 
-Welcome to this self-paced Python course! It is based on the autumn 2023 course "Introduction to Data Science and Programming" which we held at ITU together with Michael Szell. If you're here, chances are high that you want to learn Python. That's a great idea! Let's get started:
-
-## Course structure and contents
-
-The Python course consists of 10 units. Each unit has a lecture (see folder `lectures`) and an exercise (see folder `exercises`). To complete a unit, 
-1. first look through the lecture (slides/notebooks and video recording), and 
-2. then try to solve the corresponding exercise yourself. 
-
-After completing the course, you will be familiar and comfortable with the following topics:
-* Working with Jupyter notebook
-* Python objects (the "building blocks" of Python)
-* Fundamental data types: `int`, `float`, `str`, `bool`, further data types and how to work with them: `list`, `set`, `dict`, `tuple`
-* Operators (mathematical, assignment, comparison)
-* Boolean logic and operations
-* Conditional statements (if/else/elif)
-* Loops: `for` and `while`
-* Writing your own functions 
-* Running Python scripts from the command line interface (CLI)
-* Creating interactive Python scripts with user input
-* Reading in and processing data in different file formats
-* Importing, using, and creating Python modules
-* Installing, importing, and using Python packages and libraries 
-* Data wrangling with `pandas`
-* Package management from the command line with `conda`
-* Measuring the runtime of your code
-* Sending HTTP requests with `requests` and webscraping with `beautifulsoup4`
+Welcome to this self-paced Python course! It is based on the autumn 2023 course [Introduction to Data Science and Programming](https://github.com/mszell/introdatasci) which we held at ITU together with Michael Szell. If you're here, chances are high that you want to learn Python. That's a great idea! Let's get started right away.
 
 ## How to download all the material to your local machine
 
 Click on the "Code" button in the upper right corner of this page, and then select "Download ZIP". (Or, if you're familiar with Git, just `git clone` this repository.)
+
+## Course structure
+
+The Python course consists of 10 units. Each unit has a lecture (see folder `lectures`) and an exercise (see folder `exercises`). To complete a unit, 
+1. first look through the lecture (slides/notebooks and video recording), and 
+2. then try to solve the corresponding exercise yourself. 
 
 ## How to go through the lectures
 
@@ -55,6 +42,34 @@ If you want to test yourself, or to practice more, you can also do the assignmen
 ## How to go through the books
 
 In the folder `books`, you will find the PDF versions of 2 books: "Python Crash Course" by Eric Matthes, and "Python Projects For Beginners" by Connor Milliken. Both books are great to look up _any_ of the topics from this Python course. If you are struggling with a topic or want a more in-depth explanation, make sure to check it out in both books!
+
+## Course contents - what you will learn
+
+After completing the course, you will be familiar and comfortable with the following topics:
+* Working with Jupyter notebook
+* Python objects (the "building blocks" of Python)
+* Fundamental data types: `int`, `float`, `str`, `bool`, further data types and how to work with them: `list`, `set`, `dict`, `tuple`
+* Operators (mathematical, assignment, comparison)
+* Boolean logic and operations
+* Conditional statements (if/else/elif)
+* Loops: `for` and `while`
+* Writing your own functions 
+* Running Python scripts from the command line interface (CLI)
+* Creating interactive Python scripts with user input
+* Reading in and processing data in different file formats
+* Importing, using, and creating Python modules
+* Installing, importing, and using Python packages and libraries 
+* Data wrangling with `pandas`
+* Package management from the command line with `conda`
+* Measuring the runtime of your code
+* Sending HTTP requests with `requests` and webscraping with `beautifulsoup4`
+
+## What's next?
+
+Done with the 10 units? 
+* Take a look at the recap (see `recap` folder)
+* Check out the full [Introduction to Data Science and Programming](https://github.com/mszell/introdatasci) course, starting from Unit 11.
+* Happy coding!
 
 ## Questions? Feedback? Something's not working?
 
