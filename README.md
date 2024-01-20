@@ -73,4 +73,8 @@ Done with the 10 units?
 
 ## Questions? Feedback? Something's not working?
 
-Get in touch with me [by email](mailto:anvy@itu.dk).
+Use the [Discussions](https://github.com/anastassiavybornova/learn-python/discussions) section on this page to:
+* ask specific questions (Q&A)
+* suggest and propose stuff (Ideas)
+* complain, comment, be opinionated (General)
+... or get in touch with me [by email](mailto:anvy@itu.dk).
